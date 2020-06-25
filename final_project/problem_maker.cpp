@@ -75,7 +75,7 @@ void subtraction(int *score){
         cout << "m =" << "\n" << m_i << "\n" << endl;
         cout << "s =" << "\n" << s_i << "\n" << endl;
 
-        cout << "m - s =" << "\n" << r_i << "\n" << endl;
+        //cout << "m - s =" << "\n" << r_i << "\n" << endl;
 
         for(j=0;j<3;j++)
         {
@@ -127,7 +127,7 @@ void multiplication(int *score){
         cout << "m =" << "\n" << m_i << "\n" << endl;
         cout << "s =" << "\n" << s_i << "\n" << endl;
 
-        cout << "m * s =" << "\n" << r_i << "\n" << endl;
+        //cout << "m * s =" << "\n" << r_i << "\n" << endl;
 
         for(j=0;j<3;j++)
         {
